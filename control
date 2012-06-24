@@ -1,0 +1,10 @@
+Package: com.bingner.extractdyld
+Name: extractdyld
+Depends: 
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Copies dyld_shared_cache without slide
+Maintainer: Samuel Bingner
+Author: Samuel Bingner
+Section: System
+Tag: role::hacker
